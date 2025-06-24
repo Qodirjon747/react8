@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.infocard {
+    box-shadow: 0px 4px 4px 0px #00000040;
+    padding: 16px;
+    width: 350px;
+}
+
+.infocard h1 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 1.2%;
+    color: #009AF0;
+    margin-top: 20px;
+}
+
+.infocard p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 1.2%;
+    color: #1E1E1E;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.infocard .btn{
+    width: 112px;
+    height: 38px;
+    border: none;
+    border-radius: 8px;
+    background-color: #009AF0;
+    color: white;
+}
+.infocard img{
+    width: 100%;
+}
